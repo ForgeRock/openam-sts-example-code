@@ -1,5 +1,10 @@
 # openam-sts-example-code
 
+## Warning
+**This code is not supported by ForgeRock and it is your responsibility to verify that the software is suitable and safe for use.**
+
+## About
+
 *Example Code for Programatically Publishing and Consuming OpenAM Security Token Service (STS) Instances*
 
 The sample code in this repository provides examples of how to consume and publish REST and SOAP STS instances programmatically.  Tailor these examples as required for your own REST STS instances.
